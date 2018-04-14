@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- android:shape指定形状类型，默认为rectangle -->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:centerColor="#0486db"
+        android:startColor="#05acd3"
+        android:endColor="#012172"
+        android:angle="225"/>
+</shape>
